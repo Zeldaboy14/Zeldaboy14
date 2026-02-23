@@ -10,5 +10,6 @@ As you've probably guess, I do Zelda64 rom hacking, and have been since December
 * [F-Zero X overdump (data digging, map testing)](https://www.youtube.com/watch?v=L3FfqV3Xxhc)
 * [z64dev (bug tester overall)](https://github.com/z64dev)
 * [LUX Shaders (major bug tester)](https://github.com/LUX-Shaders-Team/LUX-Shaders)
+* [Donk Viewer (general tweaks, dae support)](https://github.com/theballaam96/DonkViewer)
 
 All the stuff I do is free to fork and do whatever you'd like with it.
